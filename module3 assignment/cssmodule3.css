@@ -1,0 +1,99 @@
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-radius: 0px;
+	background-color: #FF7E00;
+}
+
+.navbar-brand{
+  font-size: 35px;
+  color: black;
+  padding-left: 25px;
+  font-weight:bold;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.navbar-brand:hover{
+	color: black;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.navbar-toggle{
+	border: 2px solid black;
+	margin-right: 25px;
+}
+
+.icon-bar{
+	background-color: black;
+}
+
+
+.main-title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+}
+
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+
+.menu-item:hover{
+	background-color: rgba(0,0,0,0.9);
+	color: rgba(0,0,0,0.4);
+}
+
+
+
+.row{
+	margin: 20px;
+}
+
+.content-box{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: #A9A9A9;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding: 20px;
+}
+
+.item-name{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#top{
+
+}
